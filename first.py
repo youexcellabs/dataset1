@@ -122,14 +122,17 @@
 
 # num1=int(input("Enter a number 1:"))
 # num2=int(input("Enter a Number 2:"))
-op=input("What operation you want?")
+# op=input("What operation you want?")
 
-if op=="+":
-    num1=int(input("Enter a number 1:"))
-    num2=int(input("Enter a Number 2:"))
-    print(num1+num2)
+# if op=="+":
+#     num1=int(input("Enter a number 1:"))
+#     num2=int(input("Enter a Number 2:"))
+#     print(num1+num2)
     
-elif op=="-":
+# elif op=="-":
+
+
+# print("Hello world")
     
     
     
